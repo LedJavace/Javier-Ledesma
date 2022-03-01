@@ -1,0 +1,5 @@
+¿Qué se necesita para diseñar un programa?
+Necesitamos primero un problema que queramos resolver y despues de eso tener una lluvia de ideas para resolver nuestro problemas
+
+Con tus propias palabras (pero sin omitir elementos) ¿Qué es un algoritmo?
+Es un procedimiento a seguir , que parte de un inicio o valor inicial (nuestro problema) hasta llegar a un final que es la solución del problema (programa) un ejemplo de algoritmo es el que diseñamos en nuestra escena usando el mapa conceptual para darle orden a nuestro progama.
